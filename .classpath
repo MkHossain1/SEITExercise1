@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/client-combined-3.0.1-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/dom4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Majudul Islam/workspace/SEITExercise-master/JARS/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
